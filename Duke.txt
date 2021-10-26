@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 oi oi oi
-=======
 Era uma vez
->>>>>>> 71d47c5606b93a868e058835263e9fe91dd0e492
 
 
 Resolvido!!
